@@ -1,0 +1,18 @@
+D:\Sultan\Polytechnic\Sem5\Pemrograman Jaringan\uts\c#\TrafficColorSocket\TrafficColorSocket-Server\obj\Debug\TrafficColorSocket_Server.Form1.resources
+D:\Sultan\Polytechnic\Sem5\Pemrograman Jaringan\uts\c#\TrafficColorSocket\TrafficColorSocket-Server\obj\Debug\TrafficColorSocket_Server.Properties.Resources.resources
+D:\Sultan\Polytechnic\Sem5\Pemrograman Jaringan\uts\c#\TrafficColorSocket\TrafficColorSocket-Server\obj\Debug\TrafficColorSocket-Server.csproj.GenerateResource.cache
+D:\Sultan\Polytechnic\Sem5\Pemrograman Jaringan\uts\c#\TrafficColorSocket\TrafficColorSocket-Server\obj\Debug\TrafficColorSocket-Server.csproj.CoreCompileInputs.cache
+D:\Sultan\Polytechnic\Sem5\Pemrograman Jaringan\uts\c#\TrafficColorSocket\TrafficColorSocket-Server\bin\Debug\TrafficColorSocket-Server.exe.config
+D:\Sultan\Polytechnic\Sem5\Pemrograman Jaringan\uts\c#\TrafficColorSocket\TrafficColorSocket-Server\bin\Debug\TrafficColorSocket-Server.exe
+D:\Sultan\Polytechnic\Sem5\Pemrograman Jaringan\uts\c#\TrafficColorSocket\TrafficColorSocket-Server\bin\Debug\TrafficColorSocket-Server.pdb
+D:\Sultan\Polytechnic\Sem5\Pemrograman Jaringan\uts\c#\TrafficColorSocket\TrafficColorSocket-Server\obj\Debug\TrafficColorSocket-Server.exe
+D:\Sultan\Polytechnic\Sem5\Pemrograman Jaringan\uts\c#\TrafficColorSocket\TrafficColorSocket-Server\obj\Debug\TrafficColorSocket-Server.pdb
+D:\TUGAS SEKOLAH      BAGUS SATRIA\KULIAH\Semester 5\Pemrograman Jaringan 1\6\Finish\C#\TrafficColorSocket\TrafficColorSocket-Server\bin\Debug\TrafficColorSocket-Server.exe.config
+D:\TUGAS SEKOLAH      BAGUS SATRIA\KULIAH\Semester 5\Pemrograman Jaringan 1\6\Finish\C#\TrafficColorSocket\TrafficColorSocket-Server\bin\Debug\TrafficColorSocket-Server.exe
+D:\TUGAS SEKOLAH      BAGUS SATRIA\KULIAH\Semester 5\Pemrograman Jaringan 1\6\Finish\C#\TrafficColorSocket\TrafficColorSocket-Server\bin\Debug\TrafficColorSocket-Server.pdb
+D:\TUGAS SEKOLAH      BAGUS SATRIA\KULIAH\Semester 5\Pemrograman Jaringan 1\6\Finish\C#\TrafficColorSocket\TrafficColorSocket-Server\obj\Debug\TrafficColorSocket_Server.Form1.resources
+D:\TUGAS SEKOLAH      BAGUS SATRIA\KULIAH\Semester 5\Pemrograman Jaringan 1\6\Finish\C#\TrafficColorSocket\TrafficColorSocket-Server\obj\Debug\TrafficColorSocket_Server.Properties.Resources.resources
+D:\TUGAS SEKOLAH      BAGUS SATRIA\KULIAH\Semester 5\Pemrograman Jaringan 1\6\Finish\C#\TrafficColorSocket\TrafficColorSocket-Server\obj\Debug\TrafficColorSocket-Server.csproj.GenerateResource.cache
+D:\TUGAS SEKOLAH      BAGUS SATRIA\KULIAH\Semester 5\Pemrograman Jaringan 1\6\Finish\C#\TrafficColorSocket\TrafficColorSocket-Server\obj\Debug\TrafficColorSocket-Server.csproj.CoreCompileInputs.cache
+D:\TUGAS SEKOLAH      BAGUS SATRIA\KULIAH\Semester 5\Pemrograman Jaringan 1\6\Finish\C#\TrafficColorSocket\TrafficColorSocket-Server\obj\Debug\TrafficColorSocket-Server.exe
+D:\TUGAS SEKOLAH      BAGUS SATRIA\KULIAH\Semester 5\Pemrograman Jaringan 1\6\Finish\C#\TrafficColorSocket\TrafficColorSocket-Server\obj\Debug\TrafficColorSocket-Server.pdb
